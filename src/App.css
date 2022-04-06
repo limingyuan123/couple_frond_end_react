@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.leftMenu{
+    flex:0 0 300;
+}
+
+.info{
+    flex: 1 1;
+}
